@@ -1,0 +1,823 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: none;
+}
+.main-header{
+    width: 100%;
+    /* height: 250px; */
+    /* border: 2px solid black; */
+}
+.header-top{
+    height: 50px;
+    border: 2px solid black;
+    background-color: black;
+}
+
+.header-upper
+{
+    height: 125px;
+    /* border: 2px solid black; */
+    background-color: gray;
+}
+
+.header-bottom
+{
+    /* width: 90%; */
+    height: 75px;
+    /* border: 1px solid white; */
+    /* border: 2px solid black; */
+    background-color: black;
+}
+
+.main-header .header-top .text{
+    /* position: relative; */
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.img
+{
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+
+}
+.fa-bars{
+    font-size: 45px;
+}
+.icon{
+    font-size: 45px;
+    float: right;
+   
+    
+}
+/* End Of the Header  */
+
+.main{
+    background-image: url("../images/Background/image-2.jpg");
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+    color: #ffffff;
+
+}
+.text1{
+    text-align: center;
+    padding-top: 80px;
+    color: #ffffff;
+
+}
+.hh{
+    border: 3px solid white;
+    
+    
+     display: flex;
+     justify-content: center;
+    
+    align-items: center;
+  
+    
+    height: 50px;
+    width: 150px;
+    margin: 0 auto;
+   
+    
+
+}
+.hh1{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.p{
+    text-align: center;
+    color: #ffffff;
+}
+/* End of the main session */
+
+.workout{
+    
+    width: 100%;
+    /* height: 400px; */
+    background-color:black;
+    margin: 0 auto;
+    color: #ffffff;
+}
+.prograssion{
+    padding-top: 25px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.work{
+    padding-top: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.nutrition{
+    padding-top: 25px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* End of the Workout Session */
+
+.about{
+    width: 100%;
+    height: 700px;
+
+
+
+}
+
+.info{
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.h1{
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.red{
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    color: red;
+
+}
+
+.gen-info{
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    color:black;
+
+}
+.img1{
+    padding-top: 40px;
+    width: 90%;
+    margin: 0 auto;
+}
+.img2{
+    padding-top: 40px;
+    width: 90%;
+    margin: 0 auto;
+}
+.about-1{
+    width: 400px;
+    height: 350px;
+}
+/* End of About Session */
+
+
+.staff{
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+.text2{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 80px;
+
+}
+.team{
+    padding-top: 20px;
+
+}
+.staff1{
+    padding-top: 20px;
+    width:"400px";
+     height:"250px";
+  
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.staff2{
+   
+    padding-top: 20px;
+    width: 50%;
+    width:"400px";
+     height:"250px";
+    display: block;
+    margin: 0 auto;
+}
+.staff3{
+   
+    padding-top: 20px;
+    width: 50%;
+    width:"400px";
+     height:"250px";
+    display: block;
+    margin: 0 auto;
+}
+/* End of the Session Staff */
+
+.review{
+    width: 100%;
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.test1{
+    padding-top: 60px;
+    /* text-align: center; */
+}
+.test2{
+    padding-top: 20px;
+}
+.test3{
+    padding-top: 40px;
+
+}
+.test4{
+    padding-top: 20px;
+
+}
+.star{
+    padding-top: 20px;
+
+}
+.test5{
+    padding-top: 20px;
+
+}
+
+.image{
+    padding-top: 20px;
+    width: 100%;
+    /* width: 400px;
+    height: 250px; */
+    margin: 0 auto;
+    
+    
+    
+
+}
+/* End of the Review session */
+
+
+.index
+{
+    width: 100%;
+    height: auto;
+    /* border: 2px solid black; */
+    
+}
+
+.index1{
+    padding-top: 80px;
+    width: 90%;
+    margin: 0 auto;
+}
+.index2{
+    padding-top: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cm
+{
+    border: 1px solid black;
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.hhh{
+    border: 3px solid black;
+    background-color: black;
+    
+    
+     display: flex;
+     justify-content: center;
+    
+    align-items: center;
+  
+    
+    height: 50px;
+    width: 150px;
+    margin: 0 auto;
+   
+    
+
+}
+.hh11{
+    text-decoration: none;
+    color:white;
+}
+
+/* End of the Index Session */
+
+.post{
+    width: 100%;
+    height: auto;
+    /* border: 2px solid black; */
+    text-align: center;
+}
+
+.artical{
+    padding-top: 60px;
+}
+.blog{
+    padding-top: 20px;
+}
+.news{
+    /* padding-top: 50px; */
+}
+.news2{
+    /* height: 250px; */
+    width: 300px;
+}
+.news3{
+    /* padding-top: 20px; */
+    /* height: 250px; */
+    width: 300px;
+
+}
+
+.read1{
+    border: 2px solid black;
+    /* background-color: black; */
+    
+    
+     display: flex;
+     justify-content: center;
+    
+    align-items: center;
+  
+    
+    height: 50px;
+    width: 150px;
+    margin: 0 auto;
+    /* padding-top: 20px; */
+
+}
+.read2{
+    text-decoration: none;
+    color:black;
+
+}
+
+/* End of the session  */
+
+.map{
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+.map1{
+    height: 300px;
+    overflow-x: scroll;
+}
+
+.im .h1{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.location, .call, .mail{
+    margin-top: 20px;
+    position: relative;
+    bottom: 20px;
+   
+   
+   
+    
+}
+.im h1{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.im p{
+    text-align: center;
+}
+
+.gmail{
+    position: relative;
+   top: 40px;
+   display: flex;
+   justify-content: center;
+}
+/* End Of the Map session */
+
+.service{
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+.service p{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+   
+}
+.service h1{
+    font-size: 25px;
+    
+    
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hours h1{
+    font-size: 25px;
+    margin-top: 50px;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.day h1{
+    font-size: 15px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.day p{
+    text-align: center;
+}
+
+.saturday h1{
+    font-size: 15px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.saturday p{
+    text-align: center;
+}
+.saturday sunday {
+    font-size: 15px;
+    margin-top: 30px;
+    color: hsl(0, 91%, 43%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.footer{
+    height: 100px;
+    width: 100%;
+
+}
+
+.foot{
+    margin-top: 20px;
+    margin-top: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+@media(min-width:768px)
+{
+    .text p{
+        font-size: 16px;
+    }
+
+    .fa-bars{
+        display: none;
+    }
+
+    .navbar{
+        display: block;
+    }
+    .navbar2{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        color: #ffffff;
+    }
+
+    .navbar2 li{
+        color: #ffffff;
+        list-style-type: none;
+    }
+    .navbar2 a{
+        text-decoration: none;
+    }
+
+    .fa-bars{
+        display: none;
+    }
+
+    /* End of the Session Header */
+
+
+    .main{
+        background-image: url("../images/Background/image-2.jpg");
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        color: #ffffff;
+        text-align: left;
+    
+    }
+    .text1{
+        text-align: left;
+        padding-top: 120px;
+        color: #ffffff;
+        text-align: left;
+    
+    }
+    .text1 p{
+        padding-top: 10px;
+    }
+    .text1 h1{
+        padding-top: 20px;
+        font-size: 40px;
+    }
+    .text1 h3{
+        padding-top: 20px;
+    }
+
+    .hh{
+        border: 3px solid white;
+        text-align: left;
+        
+        
+         /* display: flex; */
+         /* justify-content: center; */
+        
+        /* align-items: center; */
+      
+/*         
+        height: 50px;
+        width: 150px; */
+        margin: 15px 0 0 0 ;
+        
+        
+       
+        
+    
+    }
+    .hh1{
+        text-decoration: none;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    /* End of the Session Main */
+
+    .workout{
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+        flex-wrap: wrap;
+    height: 400px;
+    background-color:black;
+    margin: 0 auto;
+    color: #ffffff;
+   
+    
+       
+
+    }
+    .prograssion{
+        padding-top: 25px;
+        width: 35%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .work{
+        padding-top: 20px;
+        width: 35%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .nutrition{
+        /* padding-top: 15px; */
+        width: 35%;
+        /* margin: 0 auto; */
+        text-align: center;
+    }
+    /* End of the Session Workout */
+
+    .about{
+        width: 100%;
+        /* height: ; */
+        
+    
+    
+    
+    }
+    
+    .info{
+        padding-top: 40px;
+        width: 100%;
+        /* margin: 0 auto; */
+        text-align: left;
+    }
+    .h1{
+        padding-top: 20px;
+        width: 100%;
+        /* margin: 0 auto; */
+    
+    }
+    .red{
+        padding-top: 20px;
+        width: 100%;
+        /* margin: 0 auto; */
+        color: red;
+    
+    }
+    
+    .gen-info{
+        padding-top: 20px;
+        width: 100%;
+        /* margin: 0 auto; */
+        color:black;
+    
+    }
+    .about-1{
+        width: 500px;
+        height: 600px;
+        
+    }
+    /* End of the Session About */
+  .staff{
+    width: 100%;
+    
+    background-color: black;
+   
+
+  }
+  .staff-img{
+    display: flex;
+   
+    flex-wrap: wrap;
+
+  }
+  .staff-img-1{
+    width: 50%;
+  }
+
+
+  .staff1{
+    /* padding-top: 20px;
+    width:"400px";
+     height:"250px"; */
+  
+    /* width: 50%; */
+    /* display: block;
+    margin: 0 auto; */
+} 
+
+.staff2{
+   
+    padding-top: 20px;
+    /* width: 50%; */
+    width:"400px";
+     height:"250px";
+    /* display: block;
+    margin: 0 auto; */
+}
+.staff3{
+   
+    padding-top: 20px;
+    /* width: 50%; */
+    width:"400px";
+     height:"250px";
+    /* display: block;
+    margin: 0 auto; */
+}
+/* End of the session staff */
+
+.image{
+   
+    
+   
+    display: flex;
+        
+        width: 100%;
+        flex-wrap: wrap;
+}
+.image-1{
+    width: 45%;
+}
+
+.review{
+    width: 80%;
+    /* height: auto; */
+    /* width: 90%; */
+    /* margin: 0 auto; */
+}
+/* End of the Review Session */
+
+.news-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+.post{
+    width: 100%;
+}
+.news{
+    width: 50%;
+    padding-top: 20px;
+
+   
+}
+
+
+   
+
+}
+
+
+@media(min-width:992px){
+    .main{
+        background-image: url("../images/Background/image-2.jpg");
+        width: 100%;
+        height: 550px;
+        background-size: cover;
+        color: #ffffff;
+    
+    }
+
+    /* End of the Session Main */
+
+    .workout{
+    
+        width: 100%;
+        /* height: 400px; */
+        background-color:black;
+        margin: 0 auto;
+        color: #ffffff;
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .prograssion{
+        padding-top: 25px;
+        width: 30%;
+        margin: 0 auto;
+    }
+    
+    .work{
+        padding-top: 20px;
+        width: 30%;
+        margin: 0 auto;
+    }
+    
+    .nutrition{
+        padding-top: 25px;
+        width: 30%;
+        margin: 0 auto;
+    }
+    /* End of the Session Workout */
+
+    .staff{
+        width: 100%;
+        height: auto;
+        background-color: black;
+       padding-top: 60px;
+       padding-bottom: 60px;
+    }
+    .staff-img{
+        display: flex;
+       
+        flex-wrap: wrap;
+    
+      }
+      .staff-img-1{
+        width: 30%;
+      }
+    .staff3{
+        height: 200px;
+    }
+
+
+
+    
+}
